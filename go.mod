@@ -1,4 +1,4 @@
-module gitlab.timeweb.net/cloud/s3-group/lura
+module github.com/mikhail-shpakov/lura
 
 go 1.13
 
